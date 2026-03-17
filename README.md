@@ -3,7 +3,7 @@ My simple video recorder using OpenCV for traffic CCTV
 
 ## 개요
 
-본 프로그램은 OpenCV를 이용하여 웹캠 또는 교통 CCTV 영상(RTSP 스트림)을 실시간으로 받아와 화면에 출력하고, 사용자의 입력에 따라 영상을 녹화하는 비디오 레코더이다.
+본 프로그램은 OpenCV를 이용하여 교통 CCTV 영상(RTSP 스트림)을 실시간으로 받아와 화면에 출력하고, 사용자의 입력에 따라 영상을 녹화하는 비디오 레코더이다.
 
 ---
 
@@ -39,7 +39,7 @@ My simple video recorder using OpenCV for traffic CCTV
 
 ### 1. 실시간 영상 출력
 
-OpenCV의 `cv.VideoCapture()`를 이용하여 웹캠 또는 CCTV 영상을 입력받아 화면에 출력한다.
+OpenCV의 `cv.VideoCapture()`를 이용하여 CCTV 영상을 입력받아 화면에 출력한다.
 
 ---
 
