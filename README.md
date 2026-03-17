@@ -1,6 +1,5 @@
 # CheonanTrafficRecorder
 My simple video recorder using OpenCV for traffic CCTV
-# CheonanTrafficRecorder
 
 ## 개요
 
